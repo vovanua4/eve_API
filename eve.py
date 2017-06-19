@@ -7,8 +7,8 @@ from jumpModel import *
 
 class EVE ():
     _url = "http://api.eveonline.com/"
-    _keyId = 1361382
-    _ver_code = "MjriXAGICSL2h02jtCe66sNBufjJq0LGQf2kWOPxXMOaTBSaw0RG0gO2lC4jo86Y"
+    _keyId = 000000
+    _ver_code = "xxxxxxxx"
 
 
     def getJumpsLog(self):
